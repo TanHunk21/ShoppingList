@@ -10,3 +10,4 @@ C:\Users\opilane\source\repos\FilesAndObjects\ReadTotalFromShoppingList\obj\Debu
 C:\Users\opilane\source\repos\FilesAndObjects\ReadTotalFromShoppingList\obj\Debug\netcoreapp3.1\ReadTotalFromShoppingList.dll
 C:\Users\opilane\source\repos\FilesAndObjects\ReadTotalFromShoppingList\obj\Debug\netcoreapp3.1\ReadTotalFromShoppingList.pdb
 C:\Users\opilane\source\repos\FilesAndObjects\ReadTotalFromShoppingList\obj\Debug\netcoreapp3.1\ReadTotalFromShoppingList.genruntimeconfig.cache
+C:\Users\opilane\source\repos\FilesAndObjects\ReadTotalFromShoppingList\obj\Debug\netcoreapp3.1\ReadTotalFromShoppingList.csprojAssemblyReference.cache
